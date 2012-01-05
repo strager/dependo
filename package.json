@@ -1,0 +1,13 @@
+{
+    "name": "dependo",
+    "description": "Dependency resolution framework",
+    "version": "0.0.0",
+    "repository": {
+        "url": ""
+    },
+    "main": "lib/dependo.js",
+    "engines": { "node": "~0.6.0" },
+    "dependencies": { },
+    "devDependencies": { },
+    "author": "strager <strager.nds@gmail.com> (http://strager.net/)"
+}
